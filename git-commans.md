@@ -127,7 +127,7 @@ git push origin feature/new_test_branch
 
 ## **Advanced Git Commands**
 
-### **git commit --ammend**
+### **git commit --amend**
 We can modify the latest Git commit by simply using the _--amend_ option. It replaces the most recent commit. We can modify the commit message and update the files included in the commit as well. Git considers the amended commit as a new commit.
 
 Example:
